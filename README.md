@@ -84,6 +84,17 @@ conda create --name ABEAARS python=3.10
 conda activate ABEAARS
 ````
 
+```
+Note: 
+## Setup
+
+git clone Repo Url
+git lfs install
+git lfs pull
+
+
+```
+
 ### 2️⃣ Install Dependencies
 
 ```bash
@@ -112,7 +123,6 @@ This step:
 ```bash
 python start.py
 ```
-
 Access the application:
 
 * 🌐 Frontend: [http://127.0.0.1:8081](http://127.0.0.1:8081)
