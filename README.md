@@ -1,8 +1,6 @@
 
 ---
-
-```md
-# 🎬 ABEAARS — AI-Powered Entertainment Analytics Platform
+# 🎬 ABEAARS 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
